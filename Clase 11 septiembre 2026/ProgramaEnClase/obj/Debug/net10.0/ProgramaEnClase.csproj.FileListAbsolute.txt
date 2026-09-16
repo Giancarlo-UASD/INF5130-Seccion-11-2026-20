@@ -1,0 +1,14 @@
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Laboratorio de Lenguajes de programación\Clase 11 septiembre 2026\ProgramaEnClase\bin\Debug\net10.0\ProgramaEnClase.exe
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Laboratorio de Lenguajes de programación\Clase 11 septiembre 2026\ProgramaEnClase\bin\Debug\net10.0\ProgramaEnClase.deps.json
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Laboratorio de Lenguajes de programación\Clase 11 septiembre 2026\ProgramaEnClase\bin\Debug\net10.0\ProgramaEnClase.runtimeconfig.json
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Laboratorio de Lenguajes de programación\Clase 11 septiembre 2026\ProgramaEnClase\bin\Debug\net10.0\ProgramaEnClase.dll
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Laboratorio de Lenguajes de programación\Clase 11 septiembre 2026\ProgramaEnClase\bin\Debug\net10.0\ProgramaEnClase.pdb
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Laboratorio de Lenguajes de programación\Clase 11 septiembre 2026\ProgramaEnClase\obj\Debug\net10.0\ProgramaEnClase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Laboratorio de Lenguajes de programación\Clase 11 septiembre 2026\ProgramaEnClase\obj\Debug\net10.0\ProgramaEnClase.AssemblyInfoInputs.cache
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Laboratorio de Lenguajes de programación\Clase 11 septiembre 2026\ProgramaEnClase\obj\Debug\net10.0\ProgramaEnClase.AssemblyInfo.cs
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Laboratorio de Lenguajes de programación\Clase 11 septiembre 2026\ProgramaEnClase\obj\Debug\net10.0\ProgramaEnClase.csproj.CoreCompileInputs.cache
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Laboratorio de Lenguajes de programación\Clase 11 septiembre 2026\ProgramaEnClase\obj\Debug\net10.0\ProgramaEnClase.dll
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Laboratorio de Lenguajes de programación\Clase 11 septiembre 2026\ProgramaEnClase\obj\Debug\net10.0\refint\ProgramaEnClase.dll
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Laboratorio de Lenguajes de programación\Clase 11 septiembre 2026\ProgramaEnClase\obj\Debug\net10.0\ProgramaEnClase.pdb
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Laboratorio de Lenguajes de programación\Clase 11 septiembre 2026\ProgramaEnClase\obj\Debug\net10.0\ProgramaEnClase.genruntimeconfig.cache
+C:\Users\zlaae\Desktop\Shared\.UASD\2026-2\Laboratorio de Lenguajes de programación\Clase 11 septiembre 2026\ProgramaEnClase\obj\Debug\net10.0\ref\ProgramaEnClase.dll
