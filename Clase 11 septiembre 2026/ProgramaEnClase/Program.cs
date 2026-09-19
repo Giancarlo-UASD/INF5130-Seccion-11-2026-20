@@ -25,7 +25,7 @@ Console.Write("Introduzca el kilometraje del Vehículo: ");
 int kilometraje = int.Parse(Console.ReadLine());
 
 if(opcion == 1){
-    Vehiculo miVehiculo = new Vehiculo(idVehiculo, marca, modelo, anio, precio);
+    Vehiculo miVehiculo = new Vehiculo(idVehiculo, marca, modelo, anio, precio, kilometraje);
     Console.WriteLine("El costo del seguro es: " + miVehiculo.CalcularCostoSeguro());
     Console.WriteLine("Introduzca un nuevo kilometraje: "); 
     kilometraje = int.Parse(Console.ReadLine());
@@ -45,16 +45,16 @@ if(opcion == 1){
     Console.Write("Ingrese la capacidad del maletero: ");
     double capacidadMaletero = double.Parse(Console.ReadLine());
 
-    Automovil miAutomovil = new Automovil(idVehiculo, marca, modelo, anio, precio,
+    Automovil miAutomovil = new Automovil(idVehiculo, marca, modelo, anio, precio, kilometraje,
     cantidadPuertas, tipoCombustible, cilindrada, capacidadMaletero);
     Console.WriteLine("El costo del seguro es: " + miAutomovil.CalcularCostoSeguro());
     Console.WriteLine("Introduzca un nuevo kilometraje: "); 
     kilometraje = int.Parse(Console.ReadLine());
     miAutomovil.ActualizarKilometraje(kilometraje);
     miAutomovil.RealizarMantenimiento();
-    miAutomovil.MostrarDetalles();
     miAutomovil.Encender();
     miAutomovil.Apagar();
+    miAutomovil.MostrarDetalles();
 }else if(opcion == 3){
     Console.Write("Ingrese la cilindrada: ");
     int cilindrada = int.Parse(Console.ReadLine());
@@ -68,16 +68,18 @@ if(opcion == 1){
     Console.Write("¿Tiene maletero? (true/false): ");
     bool tieneMaletero = bool.Parse(Console.ReadLine());
 
-    Motocicleta miMotocicleta = new Motocicleta(idVehiculo, marca, modelo, anio, precio,
+    Motocicleta miMotocicleta = new Motocicleta(idVehiculo, marca, modelo, anio, precio, kilometraje,
     cilindrada, tipo, color, tieneMaletero);
+    Console.WriteLine();
     Console.WriteLine("El costo del seguro es: " + miMotocicleta.CalcularCostoSeguro());
+    Console.WriteLine();
     Console.WriteLine("Introduzca un nuevo kilometraje: "); 
     kilometraje = int.Parse(Console.ReadLine());
     miMotocicleta.ActualizarKilometraje(kilometraje);
     miMotocicleta.RealizarMantenimiento();
-    miMotocicleta.MostrarDetalles();
     miMotocicleta.Acelerar();
     miMotocicleta.Frenar();
+    miMotocicleta.MostrarDetalles();
 }else{
     Console.WriteLine("Entrada Incorrecta....");
     System.Environment.Exit(1);

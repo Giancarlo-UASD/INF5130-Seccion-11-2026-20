@@ -4,28 +4,36 @@ interface IMantenible{
 
 public class Vehiculo: IMantenible{
     // Atributos de la clase
-    private int idVehiculo;
-    private string marca;
-    private string modelo;
-    private int anio;
+    protected int idVehiculo;
+    protected string marca;
+    protected string modelo;
+    protected int anio;
     protected double precio;
-    private int kilometraje;
+    protected int kilometraje;
 
     // Constructor
-    public Vehiculo(int idVehiculo, string marca, string modelo, int anio, double precio)
+    public Vehiculo(int idVehiculo, string marca, string modelo, int anio, double precio, int kilometraje)
     {
         this.idVehiculo = idVehiculo;
         this.marca = marca;
         this.modelo = modelo;
         this.anio = anio;
         this.precio = precio;
+        this.kilometraje = kilometraje;
     }
 
     // Métodos de la case
     public void MostrarDetalles()
     {
-        Console.WriteLine($"Los detalles del vehículo son: {idVehiculo} {marca} {modelo}");
-        Console.WriteLine($"Además {anio} {precio} {kilometraje}");
+        Console.WriteLine();
+        Console.WriteLine("Los detalles del vehículo son:");
+        Console.WriteLine("ID del vehículo: " + idVehiculo);
+        Console.WriteLine("Marca del vehículo: " + marca);
+        Console.WriteLine("Modelo del vehículo: " + modelo);
+        Console.WriteLine("Año del vehículo: " + anio);
+        Console.WriteLine("Precio del vehículo: " + precio);
+        Console.WriteLine("Kilometraje del vehículo: " + kilometraje);
+        Console.WriteLine(); 
     }
 
     public double CalcularCostoSeguro(){

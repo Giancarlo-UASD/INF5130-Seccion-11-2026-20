@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\zlaae\\Desktop\\Shared\\.UASD\\2026-2\\Laboratorio de Lenguajes de programación\\Clase 11 septiembre 2026\\ProgramaEnClase\\ProgramaEnClase.csproj": {}
+    "C:\\Users\\zlaae\\Desktop\\Shared\\.UASD\\2026-2\\Laboratorio de Lenguajes de programación\\INF5130-Seccion-11-2026-20\\Clase 11 septiembre 2026\\ProgramaEnClase\\ProgramaEnClase.csproj": {}
   },
   "projects": {
-    "C:\\Users\\zlaae\\Desktop\\Shared\\.UASD\\2026-2\\Laboratorio de Lenguajes de programación\\Clase 11 septiembre 2026\\ProgramaEnClase\\ProgramaEnClase.csproj": {
+    "C:\\Users\\zlaae\\Desktop\\Shared\\.UASD\\2026-2\\Laboratorio de Lenguajes de programación\\INF5130-Seccion-11-2026-20\\Clase 11 septiembre 2026\\ProgramaEnClase\\ProgramaEnClase.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\zlaae\\Desktop\\Shared\\.UASD\\2026-2\\Laboratorio de Lenguajes de programación\\Clase 11 septiembre 2026\\ProgramaEnClase\\ProgramaEnClase.csproj",
+        "projectUniqueName": "C:\\Users\\zlaae\\Desktop\\Shared\\.UASD\\2026-2\\Laboratorio de Lenguajes de programación\\INF5130-Seccion-11-2026-20\\Clase 11 septiembre 2026\\ProgramaEnClase\\ProgramaEnClase.csproj",
         "projectName": "ProgramaEnClase",
-        "projectPath": "C:\\Users\\zlaae\\Desktop\\Shared\\.UASD\\2026-2\\Laboratorio de Lenguajes de programación\\Clase 11 septiembre 2026\\ProgramaEnClase\\ProgramaEnClase.csproj",
+        "projectPath": "C:\\Users\\zlaae\\Desktop\\Shared\\.UASD\\2026-2\\Laboratorio de Lenguajes de programación\\INF5130-Seccion-11-2026-20\\Clase 11 septiembre 2026\\ProgramaEnClase\\ProgramaEnClase.csproj",
         "packagesPath": "C:\\Users\\zlaae\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\zlaae\\Desktop\\Shared\\.UASD\\2026-2\\Laboratorio de Lenguajes de programación\\Clase 11 septiembre 2026\\ProgramaEnClase\\obj\\",
+        "outputPath": "C:\\Users\\zlaae\\Desktop\\Shared\\.UASD\\2026-2\\Laboratorio de Lenguajes de programación\\INF5130-Seccion-11-2026-20\\Clase 11 septiembre 2026\\ProgramaEnClase\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\zlaae\\AppData\\Roaming\\NuGet\\NuGet.Config"
