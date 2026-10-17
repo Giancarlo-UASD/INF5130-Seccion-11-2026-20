@@ -1,8 +1,21 @@
 {
   "version": 2,
-  "dgSpecHash": "pP8X0faIrA8=",
+  "dgSpecHash": "W1/pcCL7ZHM=",
   "success": true,
   "projectFilePath": "C:\\Users\\zlaae\\Desktop\\Shared\\.UASD\\2026-2\\Laboratorio de Lenguajes de programación\\INF5130-Seccion-11-2026-20\\Clase 9 de Octubre 2026\\ProgramaEnClase\\ProgramaEnClase.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\zlaae\\.nuget\\packages\\microsoft.codecoverage\\18.11.0\\microsoft.codecoverage.18.11.0.nupkg.sha512",
+    "C:\\Users\\zlaae\\.nuget\\packages\\microsoft.net.test.sdk\\18.11.0\\microsoft.net.test.sdk.18.11.0.nupkg.sha512",
+    "C:\\Users\\zlaae\\.nuget\\packages\\microsoft.testplatform.objectmodel\\18.11.0\\microsoft.testplatform.objectmodel.18.11.0.nupkg.sha512",
+    "C:\\Users\\zlaae\\.nuget\\packages\\microsoft.testplatform.testhost\\18.11.0\\microsoft.testplatform.testhost.18.11.0.nupkg.sha512",
+    "C:\\Users\\zlaae\\.nuget\\packages\\xunit\\2.9.3\\xunit.2.9.3.nupkg.sha512",
+    "C:\\Users\\zlaae\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\zlaae\\.nuget\\packages\\xunit.analyzers\\1.18.0\\xunit.analyzers.1.18.0.nupkg.sha512",
+    "C:\\Users\\zlaae\\.nuget\\packages\\xunit.assert\\2.9.3\\xunit.assert.2.9.3.nupkg.sha512",
+    "C:\\Users\\zlaae\\.nuget\\packages\\xunit.core\\2.9.3\\xunit.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\zlaae\\.nuget\\packages\\xunit.extensibility.core\\2.9.3\\xunit.extensibility.core.2.9.3.nupkg.sha512",
+    "C:\\Users\\zlaae\\.nuget\\packages\\xunit.extensibility.execution\\2.9.3\\xunit.extensibility.execution.2.9.3.nupkg.sha512",
+    "C:\\Users\\zlaae\\.nuget\\packages\\xunit.runner.visualstudio\\4.0.1\\xunit.runner.visualstudio.4.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
